@@ -8,64 +8,64 @@ tags:
   - SmartAPI
   - OpenAPI
 authors:
- - name: Russell Neches
+  - name: Russell Neches
     orcid: 0000-0000-0000-0000
     affiliation: 1
- - name: Yoko Okabeppu
+  - name: Yoko Okabeppu
     orcid: 0000-0000-0000-0000
     affiliation: 2
- - name: Anton Zhuravlev
+  - name: Anton Zhuravlev
     orcid: 0000-0000-0000-0000
     affiliation: 3
- - name: Nishad Thalhath
+  - name: Nishad Thalhath
     orcid: 0000-0000-0000-0000
     affiliation: 4
- - name: Daniel Fernández Álvarez
+  - name: Daniel Fernández Álvarez
     orcid: 0000-0000-0000-0000
     affiliation: 5
- - name: Jose Emilio Labra Gayo
+  - name: Jose Emilio Labra Gayo
     orcid: 0000-0000-0000-0000
     affiliation: 6
- - name: Chunlei Wu
+  - name: Chunlei Wu
     orcid: 0000-0000-0000-0000
     affiliation: 7
- - name: Manabu Ishii
+  - name: Manabu Ishii
     orcid: 0000-0000-0000-0000
     affiliation: 8
- - name: Tazro Ohta
+  - name: Tazro Ohta
     orcid: 0000-0000-0000-0000
     affiliation: 9
- - name: Toshiaki Katayama
+  - name: Toshiaki Katayama
     orcid: 0000-0000-0000-0000
     affiliation: 10
- - name: Gos Micklem
+  - name: Gos Micklem
     orcid: 0000-0002-6883-6168
     affiliation: 11
 
 
 affiliations:
- - name: Institution 1, address, city, country
-   index: 1
- - name: Institution 1, address, city, country
-   index: 2
- - name: Institution 1, address, city, country
-   index: 3
- - name: Institution 1, address, city, country
-   index: 4
- - name: Institution 1, address, city, country
-   index: 5
- - name: Institution 1, address, city, country
-   index: 6
- - name: Institution 1, address, city, country
-   index: 7
- - name: Institution 1, address, city, country
-   index: 8
- - name: Institution 1, address, city, country
-   index: 9
- - name: Institution 1, address, city, country
-   index: 10
- - name: Department of Genetics, University of Cambridge, Cambridge, U.K.
-   index: 11
+  - name: Institution 1, address, city, country
+    index: 1
+  - name: Institution 1, address, city, country
+    index: 2
+  - name: Institution 1, address, city, country
+    index: 3
+  - name: Institution 1, address, city, country
+    index: 4
+  - name: Institution 1, address, city, country
+    index: 5
+  - name: Institution 1, address, city, country
+    index: 6
+  - name: Institution 1, address, city, country
+    index: 7
+  - name: Institution 1, address, city, country
+    index: 8
+  - name: Institution 1, address, city, country
+    index: 9
+  - name: Institution 1, address, city, country
+    index: 10
+  - name: Department of Genetics, University of Cambridge, Cambridge, U.K.
+    index: 11
 
 date: 19 September 2025
 bibliography: paper.bib
