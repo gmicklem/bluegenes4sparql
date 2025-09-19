@@ -1,26 +1,77 @@
 ---
 title: 'BioHackrXiv  template'
 tags:
-  - replace with your own keywords
-  - at least 3 is recommended
+  - InterMine
+  - BlueGenes
+  - User Interface
+  - SPARQL
+  - SmartAPI
+  - OpenAPI
 authors:
-  - name: First Last
+ - name: Russell Neches
     orcid: 0000-0000-0000-0000
     affiliation: 1
-  - name: Second Last
+ - name: Yoko Okabeppu
     orcid: 0000-0000-0000-0000
     affiliation: 2
+ - name: Anton Zhuravlev
+    orcid: 0000-0000-0000-0000
+    affiliation: 3
+ - name: Nishad Thalhath
+    orcid: 0000-0000-0000-0000
+    affiliation: 4
+ - name: Daniel Fernández Álvarez
+    orcid: 0000-0000-0000-0000
+    affiliation: 5
+ - name: Jose Emilio Labra Gayo
+    orcid: 0000-0000-0000-0000
+    affiliation: 6
+ - name: Chunlei Wu
+    orcid: 0000-0000-0000-0000
+    affiliation: 7
+ - name: Manabu Ishii
+    orcid: 0000-0000-0000-0000
+    affiliation: 8
+ - name: Tazro Ohta
+    orcid: 0000-0000-0000-0000
+    affiliation: 9
+ - name: Toshiaki Katayama
+    orcid: 0000-0000-0000-0000
+    affiliation: 10
+ - name: Gos Micklem
+    orcid: 0000-0002-6883-6168
+    affiliation: 11
+
 
 affiliations:
  - name: Institution 1, address, city, country
    index: 1
  - name: Institution 1, address, city, country
    index: 2
-date: 01 January 2020
+ - name: Institution 1, address, city, country
+   index: 3
+ - name: Institution 1, address, city, country
+   index: 4
+ - name: Institution 1, address, city, country
+   index: 5
+ - name: Institution 1, address, city, country
+   index: 6
+ - name: Institution 1, address, city, country
+   index: 7
+ - name: Institution 1, address, city, country
+   index: 8
+ - name: Institution 1, address, city, country
+   index: 9
+ - name: Institution 1, address, city, country
+   index: 10
+ - name: Department of Genetics, University of Cambridge, Cambridge, U.K.
+   index: 11
+
+date: 19 September 2025
 bibliography: paper.bib
-authors_short: Last et al. (2021) BioHackrXiv  template
+authors_short: Neches et al. (2025) BioHackrXiv
 group: BioHackrXiv
-event: BioHackathon Europe 2021
+event: BioHackathon Japan 2025
 ---
 
 # Introduction or Background
